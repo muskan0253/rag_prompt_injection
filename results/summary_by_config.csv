@@ -1,0 +1,8 @@
+config,ASR,benign_utility,utility_under_attack,poisoned_doc_in_top3,hard_benign_false_positive,ms_per_query,n_attack_runs
+C0 No defense,92.1,100.0,7.7,100.0,0/2,0.25,520
+C1 Detector,20.2,90.0,79.8,100.0,1/2,0.4,520
+C2 Sanitizer,34.2,90.0,59.0,100.0,1/2,0.33,520
+C3 Spotlighting,15.4,100.0,84.6,100.0,0/2,0.24,520
+C4 Output guard,70.8,100.0,7.7,100.0,0/2,0.28,520
+C5 Detector+Sanitizer,13.1,90.0,86.9,100.0,1/2,0.41,520
+C6 Full (all 4 layers),3.1,90.0,96.9,100.0,1/2,0.42,520

@@ -1,0 +1,6 @@
+p_obey_spotlighted,ASR_spotlighting_only,ASR_full_pipeline
+0.05,5.2,1.0
+0.15,15.4,3.1
+0.3,30.0,4.8
+0.5,49.2,7.7
+0.9,91.5,13.1
