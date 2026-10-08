@@ -59,13 +59,13 @@ git clone https://github.com/muskan0253/rag_prompt_injection.git
 ## Step 3: Enter the Project Directory
 
 ```bash
-cd rag_injection_lab
+cd rag_prompt_injection
 ```
 
 The project directory should contain:
 
 ```text
-rag_injection_lab/
+rag_prompt_injection/
 ├── README.md
 ├── rag_lab.py
 ├── make_architecture_figure.py
@@ -132,7 +132,7 @@ No external API key or cloud LLM account is required for this implementation.
 The complete project is organized as follows:
 
 ```text
-rag_injection_lab/
+rag_prompt_injection/
 │
 ├── README.md
 │
@@ -523,7 +523,7 @@ For a complete execution from a fresh clone, use the following order:
 
 ```bash
 git clone https://github.com/muskan0253/rag_prompt_injection.git
-cd rag_injection_lab
+cd rag_prompt_injection
 ```
 
 Create the virtual environment:
