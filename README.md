@@ -51,16 +51,9 @@ Open Command Prompt, PowerShell, Git Bash, or a Linux terminal.
 
 ## Step 2: Clone the Repository
 
-Replace `<GITHUB_REPOSITORY_URL>` with the GitHub repository URL.
 
 ```bash
-git clone <GITHUB_REPOSITORY_URL>
-```
-
-Example:
-
-```bash
-git clone https://github.com/USERNAME/rag_injection_lab.git
+git clone https://github.com/muskan0253/rag_prompt_injection.git
 ```
 
 ## Step 3: Enter the Project Directory
@@ -529,7 +522,7 @@ results/fig_architecture.png
 For a complete execution from a fresh clone, use the following order:
 
 ```bash
-git clone <GITHUB_REPOSITORY_URL>
+git clone https://github.com/muskan0253/rag_prompt_injection.git
 cd rag_injection_lab
 ```
 
@@ -637,7 +630,6 @@ The results produced by the program therefore represent the behavior of the expe
 
 # 17. GitHub Repository
 
-**GitHub Repository: **
-
+**GitHub Repository:**
 `https://github.com/muskan0253/rag_prompt_injection.git`
 
